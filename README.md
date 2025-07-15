@@ -1,5 +1,5 @@
 # otempo-scraper-news
-🤖 Raspador de notícias do portal O Tempo criado para pesquisa de Mestrado em Comunicação da UFOP. Mas que pode ser útil para outras demandas. 
+🤖 Raspador de notícias do portal do jornal mineiro O Tempo. Software criado para pesquisa de Mestrado em Comunicação da UFOP. Mas que pode ser útil para outras demandas. 
 📰 A partir de um termo de busca, captura as seguintes informações das notícias:
 Título, 
 Subtítulo, 
