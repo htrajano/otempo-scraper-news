@@ -1,15 +1,15 @@
 # otempo-scraper-news
-🤖 Raspador de notícias do portal O Tempo criado para pesquisa de Mestrado em Comunicação da UFOP. Mas que pode ser útil para outras demandas.
+🤖 Raspador de notícias do portal O Tempo criado para pesquisa de Mestrado em Comunicação da UFOP. Mas que pode ser útil para outras demandas. 
 📰 A partir de um termo de busca, captura as seguintes informações das notícias:
-Título
-Subtítulo
-Data de publiciação 
-Autor
-Link da notícia
-Conteúdo de texto 
-Link da imagem de destaque 
-Presença ou não de vídeo
-Tags 
+Título, 
+Subtítulo, 
+Data de publiciação,  
+Autor, 
+Link da notícia, 
+Conteúdo de texto,  
+Link da imagem de destaque,  
+Presença ou não de vídeo, 
+Tags.  
 
 💾 Salva as informações em um arquivo .CSV
 
