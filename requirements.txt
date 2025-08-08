@@ -1,0 +1,8 @@
+pandas
+matplotlib
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+nltk
+wordcloud
